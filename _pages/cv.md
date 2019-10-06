@@ -11,30 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Applied Mathematics and B.A. in Linguistics and Computer Science, University of California, Los Angeles, 2013-2017
+* M.S. in Symbolic Systems Program, Stanford University, 2017-2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2018 - September 2018: Machine Learning Engineering Intern
+  * [Hoodline](https://hoodline.com)
+  * Focus: Computer Vision, Natural Language Processing
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research experience
+======
+* October 2018 - Current: Individual Research
+  * [Stanford ALPS Lab](http://alpslab.stanford.edu)
+  * Advisor: [Judith Degen](https://sites.google.com/site/judithdegen/)
+  * Probing the pragmatic information encoded in neural networks' word embedding space
+
+Project experience
+======
+* 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C/C++, Python, Java, MySQL, R, Matlab, Shell Script, Lisp
+* PyTorch, Tensorflow
+
+<!-- 
 
 Publications
 ======
@@ -56,4 +58,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
