@@ -16,13 +16,13 @@ Education
 
 Work experience
 ======
-* Machine Learning Engineering Intern | June 2018 - September 2018, San Francisco, CA
+* **Machine Learning Engineering Intern**, June 2018 - September 2018, San Francisco, CA
   * [Hoodline](https://hoodline.com)
   * Focus: Computer Vision, Natural Language Processing
 
 Research experience
 ======
-* Individual Research | October 2018 - Current, Stanford, CA
+* **Individual Research**, October 2018 - Current, Stanford, CA
   * [Stanford ALPS Lab](http://alpslab.stanford.edu)
   * Implicature strength
   * Probing the pragmatic information encoded in neural networks' word embedding space (<span style="color:FireBrick;">master's thesis</span>)
