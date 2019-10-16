@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Resume
+======
+\[[Yuxing Chen's Resume](https://yuxingch.github.io/files/Resume_Yuxing_S19.pdf)\]
+
 Education
 ======
 * B.S. in Applied Mathematics and B.A. in Linguistics and Computer Science, University of California, Los Angeles, 2013-2017
