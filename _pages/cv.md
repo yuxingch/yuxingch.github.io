@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Resume
-======
 \[[Yuxing Chen's Resume](https://yuxingch.github.io/files/Resume_Yuxing_S19.pdf)\]
 
 Education
